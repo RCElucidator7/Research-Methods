@@ -1,0 +1,93 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.11)  12 DEC 2018 19:22
+entering extended mode
+**./litReview.tex
+(litReview.tex
+LaTeX2e <2018-04-01> patch level 5
+(D:\MikTex\tex\latex\base\report.cls
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+(D:\MikTex\tex\latex\base\size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (D:\MikTex\tex\latex\base\inputenc.sty
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+(litReview.aux)
+\openout1 = `litReview.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 10.
+ [1
+
+{C:/Users/Ryan Conway/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [1]
+Chapter 1.
+(Introduction.tex) [2
+
+]
+Chapter 2.
+(Methodology.tex) [3
+
+]
+Chapter 3.
+(TechnologyReview.tex) [4
+
+]
+Chapter 4.
+(SystemDesign.tex) [5
+
+]
+Chapter 5.
+(SystemEvaluation.tex) [6
+
+]
+Chapter 6.
+(Conclusion.tex) [7
+
+] (litReview.aux) ) 
+Here is how much of TeX's memory you used:
+ 290 strings out of 492970
+ 3542 string characters out of 3143802
+ 61422 words of memory out of 3000000
+ 4216 multiletter control sequences out of 15000+200000
+ 8808 words of font info for 31 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 23i,6n,18p,893b,181s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/MikTex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/Mik
+Tex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/MikTex/fonts/type1/public/ams
+fonts/cm/cmr10.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/MikT
+ex/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on litReview.pdf (8 pages, 72348 bytes).
+PDF statistics:
+ 49 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
